@@ -1,0 +1,21 @@
+Candidate_ID,Candidate_Name,Position,Applied_Date,Interview_Date,Interview_Status,Offer_Status,Offer_Signed,Joining_Status,Salary,Source
+C001,Rahul Kumar,Data Analyst,2026-07-01,2026-07-05,Selected,Sent,Yes,Joined,550000,LinkedIn
+C002,Priya Singh,Data Analyst,2026-07-02,2026-07-06,Rejected,No,No,No,0,Naukri
+C003,Amit Patel,Business Analyst,2026-07-03,2026-07-07,Selected,Sent,Yes,Pending,600000,Referral
+C004,Neha Sharma,Data Analyst,2026-07-04,2026-07-08,Selected,Sent,No,No,520000,LinkedIn
+C005,Vivek Gupta,Data Engineer,2026-07-05,2026-07-09,Selected,Sent,Yes,Joined,700000,Indeed
+C006,Pooja Verma,Data Analyst,2026-07-06,2026-07-10,Rejected,No,No,No,0,Referral
+C007,Arjun Singh,ML Engineer,2026-07-07,2026-07-11,Selected,Sent,Yes,Joined,850000,LinkedIn
+C008,Anjali Roy,Business Analyst,2026-07-08,2026-07-12,Selected,Sent,No,Pending,580000,Indeed
+C009,Karan Das,Data Analyst,2026-07-09,2026-07-13,Rejected,No,No,No,0,Naukri
+C010,Sneha Jain,Data Engineer,2026-07-10,2026-07-14,Selected,Sent,Yes,Joined,720000,Referral
+C011,Rohit Kumar,Data Analyst,2026-07-11,2026-07-15,Selected,Sent,Yes,Joined,560000,LinkedIn
+C012,Meera Singh,Business Analyst,2026-07-12,2026-07-16,Selected,Sent,Yes,Pending,610000,Indeed
+C013,Akash Yadav,Data Analyst,2026-07-13,2026-07-17,Rejected,No,No,No,0,LinkedIn
+C014,Nisha Gupta,ML Engineer,2026-07-14,2026-07-18,Selected,Sent,Yes,Joined,900000,Referral
+C015,Deepak Raj,Data Engineer,2026-07-15,2026-07-19,Selected,Sent,No,Pending,730000,Naukri
+C016,Komal Sharma,Data Analyst,2026-07-16,2026-07-20,Selected,Sent,Yes,Joined,570000,LinkedIn
+C017,Mohit Verma,Business Analyst,2026-07-17,2026-07-21,Rejected,No,No,No,0,Indeed
+C018,Riya Singh,Data Analyst,2026-07-18,2026-07-22,Selected,Sent,Yes,Joined,590000,Referral
+C019,Saurabh Mishra,Data Engineer,2026-07-19,2026-07-23,Selected,Sent,Yes,Joined,740000,LinkedIn
+C020,Shreya Das,Data Analyst,2026-07-20,2026-07-24,Selected,Sent,No,Pending,560000,Naukri
