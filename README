@@ -1,0 +1,91 @@
+# Hiring Outcome Dashboard
+
+### Developed by- *Ritu Raj Singh*
+
+## Project Overview
+
+This project demonstrates a Hiring Outcome Dashboard built using Python, Google Colab, Pandas, and Matplotlib. The dashboard analyzes the complete hiring process using a sample recruitment dataset and provides meaningful business insights through KPIs and visualizations.
+
+## Project Objectives
+
+* Analyze hiring data efficiently.
+* Monitor recruitment outcomes.
+* Calculate important hiring KPIs.
+* Perform data quality checks.
+* Visualize recruitment performance using charts.
+
+## Dataset
+
+*File Name:* Sample Dataset.xlsx
+
+The dataset includes:
+
+* Candidate ID
+* Candidate Name
+* Position
+* Applied Date
+* Interview Date
+* Interview Status
+* Offer Status
+* Offer Signed
+* Joining Status
+* Salary
+* Hiring Source
+
+## Tools & Technologies
+
+* Python
+* Google Colab
+* Pandas
+* NumPy
+* Matplotlib
+* OpenPyXL
+
+## Project Workflow
+
+1. Import Dataset
+2. Data Cleaning
+3. Data Quality Check
+4. KPI Analysis
+5. Hiring Analysis
+6. Data Visualization
+7. Executive Dashboard
+8. Export Reports
+
+## Key Performance Indicators (KPIs)
+
+* Total Candidates
+* Selected Candidates
+* Rejected Candidates
+* Offers Sent
+* Offers Signed
+* Joined Candidates
+* Pending Joining
+* Average Salary
+
+## Visualizations
+
+* Interview Status Bar Chart
+* Hiring Source Pie Chart
+* Position-wise Hiring Chart
+* Joining Status Chart
+* Salary Distribution
+* Offer Signed Pie Chart
+
+## Project Output Files
+
+* Sample Dataset.xlsx
+* cleaned_hiring_dataset.csv
+* kpi_summary.csv
+* final_hiring_report.csv
+* Hiring_Outcome_Report.xlsx
+* interview_status.png
+* hiring_source.png
+* position_wise_hiring.png
+* joining_status.png
+* salary_distribution.png
+* offer_signed.png
+
+## Conclusion
+
+This project demonstrates how recruitment data can be transformed into meaningful insights using Python. The dashboard helps monitor hiring performance, recruitment outcomes, and decision-making through clear KPIs and visual reports.
